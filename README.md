@@ -42,10 +42,11 @@ Each algorithm operates over the same abstract graph structure, enabling side-by
 ## 🖥️ Visualization Features
 
 - **Interactive City Selection**: Choose start and end nodes via dropdown interface.
-- **Algorithm Switching**: Toggle between DFS, Dijkstra, and A* for comparative evaluation.
+- **Algorithm Switching**: Toggle between DFS, Dijkstra for comparative evaluation.
 - **Route Highlighting**: Display of visited nodes, shortest path, and total distance.
 - **Graphical Interface**: Node-edge structure displayed in a custom 2D layout.
-- 
+
+---
 
 ## 🔧 Installation and Execution
 
